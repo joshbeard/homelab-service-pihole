@@ -1,3 +1,3 @@
-# Graylog
+# Pi-Hole
 
-Deployment of Graylog in a Proxmox LXC using Ansible.
+Deployment of Pi-Hole in a Proxmox LXC using Ansible.
