@@ -22,3 +22,8 @@
             start: true
             storage: store
             onboot: true
+
+# Base system playbook
+- import_playbook: jbeard.homelab.main
+  vars:
+    target: haproxy
