@@ -26,4 +26,4 @@
 # Base system playbook
 - import_playbook: jbeard.homelab.main
   vars:
-    target: haproxy
+    target: pihole
